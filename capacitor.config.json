@@ -1,0 +1,8 @@
+{
+  "appId": "com.eatcorrect.app",
+  "appName": "EatCorrect",
+  "webDir": "out",
+  "server": {
+    "androidScheme": "https"
+  }
+}

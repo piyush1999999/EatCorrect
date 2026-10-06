@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="80" viewBox="0 0 320 80" fill="none">
+  <rect width="320" height="80" rx="16" fill="#f7f8f4"/>
+  <rect x="16" y="20" width="40" height="40" rx="11" fill="#1a7f4b"/>
+  <path d="M46 30c-9 0-16.5 5.3-18.8 14.3C32 42.5 38 38.8 42.5 33.5c-3 6-8.3 10.5-14.3 12.8C31 48 40 46.5 45.3 39 48.3 35.3 49 31.5 47.5 28 47 29 46.5 29.5 46 30Z" fill="#fff"/>
+  <text x="70" y="50" font-family="Georgia, serif" font-size="30" font-weight="800" fill="#101810">Eat<tspan fill="#1a7f4b">Correct</tspan></text>
+</svg>

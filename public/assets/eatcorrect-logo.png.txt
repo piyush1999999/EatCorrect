@@ -1,0 +1,4 @@
+Replace this file with your official EatCorrect logo (PNG, ~512x512 recommended).
+The app will automatically use /assets/eatcorrect-logo.png as the favicon/app icon
+once this placeholder is replaced. A resilient inline SVG wordmark is also rendered
+by components/ui/Logo.tsx, and a vector placeholder lives at eatcorrect-logo.svg.
